@@ -1,6 +1,6 @@
 
 <h2 align=center>
-  <img src="https://drive.google.com/file/d/1oJmZ_HWvszlOPgD4lj7c8YUzRiHXAf7v/view?usp=sharing" alt="Typing SVG" />
+  ![Uploading banner .png…]()
 </h2>
 
 <p align="center"> <img src="dev-working.gif" alt="MahbubDev"/> </p>
