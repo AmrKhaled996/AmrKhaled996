@@ -1,6 +1,7 @@
 
 <h2 align=center>
-  ![Uploading banner .png…]()
+  ![banner ](https://github.com/user-attachments/assets/312b9672-8946-4016-aa49-09a5bd4e6d7c)
+
 </h2>
 
 <p align="center"> <img src="dev-working.gif" alt="MahbubDev"/> </p>
