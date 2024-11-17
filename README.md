@@ -1,6 +1,6 @@
 ![banner ](https://github.com/user-attachments/assets/49e0f873-62d6-48fa-97cb-0bb5e79e46c5)
 
-<p align="center"> <img src="dev-working.gif" alt="MahbubDev"/> </p>
+
 
 - 🔭 I’m currently working on **Web Development**
 
