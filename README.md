@@ -1,6 +1,6 @@
 
 <h2 align=center>
-  <a href="https://facebook.com/MahbubDev"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&color=000000&center=true&width=435&lines=I+am+Kazi+Mahbubur+Rahman;A+Fullstack+Web+and+App+Developer;A+Content+Creator;Always+Exploring+New+Technologies" alt="Typing SVG" /></a>
+  <img src="https://drive.google.com/file/d/1oJmZ_HWvszlOPgD4lj7c8YUzRiHXAf7v/view?usp=sharing" alt="Typing SVG" />
 </h2>
 
 <p align="center"> <img src="dev-working.gif" alt="MahbubDev"/> </p>
